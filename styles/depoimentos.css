@@ -39,6 +39,9 @@
 .feedAvatar{
     width: 100px;
 }
+.feedback-name{
+    font-weight: bold;
+}
 .feedback-content p{
     display: flex;
     justify-content: space-between;
